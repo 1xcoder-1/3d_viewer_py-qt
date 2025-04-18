@@ -25,5 +25,3 @@ Powered by Python the PyQt framework, the app use OpenGL, in combination
 2. Install requirements
 3. run "main.py" file
 
-## Like this project?
-
