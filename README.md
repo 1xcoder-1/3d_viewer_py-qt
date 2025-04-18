@@ -27,6 +27,3 @@ Powered by Python the PyQt framework, the app use OpenGL, in combination
 
 ## Like this project?
 
-Check out other stuff that i make:
-<br>https://github.com/alonrubintec
-<br>https://www.artstation.com/alonzu
