@@ -15,11 +15,8 @@ Powered by Python the PyQt framework, the app use OpenGL, in combination
 - Pan: click and drag the <b>right mouse</b> button.
 - Zoom: use the <b>mouse wheel</b> to zoom in or out.
 
-### Watch a video demo:
-
-<a href="https://www.youtube.com/watch?v=ZwK2B9AODtw&ab_channel=ALONZUBINA" target="_blank">
 <img src="https://i.ytimg.com/an_webp/ZwK2B9AODtw/mqdefault_6s.webp?du=3000&sqp=CNTB6Z4G&rs=AOn4CLCHnn6Hr9zfh7cAxOX0AsEJMwo2Yg" alt="Watch the series" width="340" height="180" border="10" />
-</a>
+
 
 ### App preview:
 ![Alt text](https://github.com/alonrubintec/3DViewer/blob/master/resource/app_preview.PNG?raw=true "app_preview.png")
